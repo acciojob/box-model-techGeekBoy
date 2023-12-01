@@ -1,8 +1,8 @@
 
-.parent{
-	display:flex;
-	align-items:center;
-	justify-content:center;
+.container{
+    display:flex; 
+ 	align-items:center;
+	justify-content:center; 
 	width:500px;
 	height:200px;
 	margin:auto;
